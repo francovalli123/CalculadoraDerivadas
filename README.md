@@ -26,4 +26,15 @@ VERSIÓN 1.2.1:
         
         División, a/b, siendo a y b numeros
 
+VERSION 1.3.1:
+
+    Se agregaron las siguientes funcionalidades:
+    
+    1) derivada del coseno
+    
+    2) derivada del seno
+    
+    3) diferencial
+    
+    4) start menu
         
